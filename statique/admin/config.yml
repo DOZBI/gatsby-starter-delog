@@ -1,6 +1,6 @@
 backend:
-  name: gatsby-starter-delog
-  branch: master
+  name:GitHub
+  branch:master
   # change repo to your git repository url
   repo:DOZBI/gatsby-starter-delog
 
